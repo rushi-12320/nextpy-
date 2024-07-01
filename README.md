@@ -65,6 +65,9 @@ The philosophy is to handle more processing at compile time and maintain better 
 
 ![image](https://res.cloudinary.com/doojikdqd/image/upload/v1704975583/github_nextpy/file_2024-01-11_11.30.21_dqfcx3.png)
 
+Project is Developed by:
+[Rushi Patel]:(https://www.linkedin.com/in/rushi-patel-193079266/)
+
 
 ## 🙏 Thanks
 
